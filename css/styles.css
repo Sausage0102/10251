@@ -4045,10 +4045,10 @@ textarea.form-control-lg {
   justify-content: space-between;
 }
 .navbar-brand {
-  padding-top: 0.3125rem;
-  padding-bottom: 0.3125rem;
-  margin-right: 1rem;
-  font-size: 1.25rem;
+  padding-top: 0.1rem;
+  padding-bottom:0.1rem;
+  margin-right: 3.0rem;
+  font-size: 1.5rem;
   text-decoration: none;
   white-space: nowrap;
 }
@@ -4509,7 +4509,7 @@ textarea.form-control-lg {
   flex-direction: column;
   min-width: 0;
   word-wrap: break-word;
-  background-color: #fff;
+  background-color: ##940000  ;
   background-clip: border-box;
   border: 1px solid rgba(0, 0, 0, 0.125);
   border-radius: 0.25rem;
